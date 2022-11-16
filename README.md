@@ -44,7 +44,7 @@ References:
 
 
 ## Contact
-Created by [@shenshaji] - feel free to contact me!
+Created by @ShenShaji - feel free to contact me!
 
 
 <!-- Optional -->
