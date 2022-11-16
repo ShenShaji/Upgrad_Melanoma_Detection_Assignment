@@ -19,10 +19,9 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Model overfits as the there is a huge gap between training and validation accuracy is the first model without augmented data and with class rebalance
-- Train_accuracy: 0.8783, validation_accuracy: 0.5168
-- After image augmentation the overfit is resolved as the gap between training and validation loss decreased, but the accuracy is still low
-- Model performs much better after class imbalance treatment
+- Model overfits as the there is a huge gap between training and validation accuracy is the first model without augmented data and with class rebalance - Train_accuracy: 0.8783, validation_accuracy: 0.5168
+- After image augmentation the overfit is resolved as the gap between training and validation loss decreased, but the accuracy is still low - Train_accuracy: 0.5525, validation_accuracy: 0.4474
+- Model performs much better after class imbalance treatment - Train_accuracy: 0.8448, validation_accuracy: 0.7528
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
